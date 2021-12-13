@@ -5,5 +5,5 @@
 
 ## RDC-Net
 
-## 当论文被接受后便会公开相关的数据集与代码！
-## Once the paper is accepted, the data set and code will be published immediately.
+#### 当论文被接受后便会公开相关的数据集与代码！
+#### Once the paper is accepted, the data set and code will be published immediately.
