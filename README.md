@@ -5,5 +5,5 @@
 
 ## RDC-Net
 
-#### 当论文被接受后便会公开相关的数据集与代码！
+#### CloudS中M24和Y13数据集与相应的训练权重可见链接：https://pan.baidu.com/s/1e549sKbr5o26CpL0Zp2FDQ 提取码：`7u5e `！
 #### Once the paper is accepted, the data set and code will be published immediately.
