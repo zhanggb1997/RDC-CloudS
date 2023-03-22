@@ -10,7 +10,7 @@
 
 
 #### CloudS中M24和Y13数据集与相应的训练权重可见链接：https://pan.baidu.com/s/1e549sKbr5o26CpL0Zp2FDQ 提取码：`7u5e `！
-####  M24 and Y13 dataset in CloudS can be find in ：https://pan.baidu.com/s/1e549sKbr5o26CpL0Zp2FDQ, and the extraction code is ：`7u5e `！
+####  M24 and Y13 dataset in CloudS can be found in ：https://pan.baidu.com/s/1e549sKbr5o26CpL0Zp2FDQ, and the extraction code is ：`7u5e `！
 
 引文格式
 
